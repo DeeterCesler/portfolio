@@ -21,6 +21,7 @@
  .academy-badge{
      width: 20%;
      /* height: 100px; */
+     padding: 10px;
  }
 
  .skill svg{
