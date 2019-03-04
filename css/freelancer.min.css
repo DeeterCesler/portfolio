@@ -42,3 +42,9 @@
     padding: 20px;
     border-radius: 40px;
  }
+
+ #title{
+    background: url("../img/sand.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
