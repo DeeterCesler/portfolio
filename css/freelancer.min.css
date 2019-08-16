@@ -33,7 +33,9 @@
  }
 
  .recommendations{
-     background-color: #6B6A6A;
+     /* background-color: #6B6A6A; */
+     background: url("../img/red.jpg");
+     background-size: cover;
      color: white;
  }
 
@@ -44,7 +46,7 @@
  }
 
  #title{
-    background: url("../img/red.jpg");
+    background: url("../img/blue.jpg");
     background-repeat: no-repeat;
     background-size: cover;
  }
