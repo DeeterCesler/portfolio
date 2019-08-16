@@ -44,7 +44,13 @@
  }
 
  #title{
-    background: url("../img/sand.jpg");
+    background: url("../img/red.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+ }
+
+ .title-container{
+     background: rgba(25,25,25,.75);
+     width: 60%;
+     border-radius: 50px;
  }
